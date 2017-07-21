@@ -1,0 +1,1 @@
+alter table enterprise add teste int
